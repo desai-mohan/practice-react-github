@@ -5,7 +5,7 @@ console.log(practicecontext);
 const App = () => {
   const { count } = useContext(practicecontext);
   console.log(count);
-  return <div>king</div>;
+  return <div>mohan_reddy</div>;
 };
 
 export default App;
